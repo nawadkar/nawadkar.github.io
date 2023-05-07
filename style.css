@@ -23,7 +23,7 @@
 
 .sidebar nav li{
     list-style: none;
-    font-size: 25px;
+    font-size: 22px;
     padding: 33px 0;
 }
 
@@ -33,6 +33,13 @@
 
 .infoContainer{
     background-color: rgb(243, 58, 172);
-    height: 45vh;
+    height: 78vh;
     width: 80vw;
+    margin: 143px auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.devPic img{
+    height: 78vh;
 }
