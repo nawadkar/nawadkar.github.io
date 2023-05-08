@@ -28,6 +28,7 @@
 }
 
 .container{
+
     display: flex;
 }
 
@@ -38,6 +39,12 @@
     margin: 143px auto;
     display: flex;
     justify-content: space-around;
+}
+
+.devInfo{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
 }
 
 .devPic img{
